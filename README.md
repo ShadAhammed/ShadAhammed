@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/github-profile-hero.png" width="100%" alt="Shad Ahammed - AI Scientist and Engineer">
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/github-profile-hero.jpg" width="100%" alt="Shad Ahammed - AI Scientist and Engineer">
 </p>
 
 <p align="center">
