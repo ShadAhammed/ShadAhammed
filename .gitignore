@@ -2,4 +2,5 @@
 .DS_Store
 Thumbs.db
 build_hero.py
+build_skills.py
 __pycache__/

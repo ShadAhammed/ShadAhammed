@@ -3,6 +3,27 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/python.png" height="48" alt="Python" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/cpp.png" height="48" alt="C++" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/pytorch.png" height="48" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/tensorflow.png" height="48" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/opencv.png" height="48" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/langchain.png" height="48" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/langgraph.png" height="48" alt="LangGraph" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/claude.png" height="48" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/gemini.png" height="48" alt="Gemini" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/openai.png" height="48" alt="OpenAI" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/ollama.png" height="48" alt="Ollama" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/aws.png" height="48" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/docker.png" height="48" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/fastapi.png" height="48" alt="FastAPI" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/esp32.png" height="48" alt="ESP32" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/jetson.png" height="48" alt="NVIDIA Jetson" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/ros2.png" height="48" alt="ROS 2" />
+  <img src="https://raw.githubusercontent.com/ShadAhammed/ShadAhammed/main/assets/skills/github.png" height="48" alt="GitHub" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ShadAhammed"><img src="https://img.shields.io/badge/GitHub-ShadAhammed-0B0F14?style=flat&labelColor=161B22&color=C48C4B" alt="GitHub"></a>
   <a href="https://github.com/ShadAhammed?tab=repositories"><img src="https://img.shields.io/badge/Projects-18+-0B0F14?style=flat&labelColor=161B22&color=4A6FA5" alt="Projects"></a>
   <img src="https://img.shields.io/badge/Based_in-Siegen%2C_Germany-0B0F14?style=flat&labelColor=161B22&color=3A4A5C" alt="Location">
