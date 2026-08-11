@@ -1,0 +1,5 @@
+﻿# OS / build
+.DS_Store
+Thumbs.db
+build_hero.py
+__pycache__/
