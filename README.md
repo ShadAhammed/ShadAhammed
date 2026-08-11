@@ -31,9 +31,9 @@
 
 <p align="center"><code>AI Scientist &amp; Engineer · University of Siegen</code></p>
 
-I build intelligent software for problems that sit between research and deployment: local LLM systems, agentic workflows, explainable ML tools, and embedded or on-device AI.
+I am an AI Scientist and Engineer working at the intersection of AI research, software engineering, and real-world deployment. I build complete AI systems rather than isolated models, from local LLM and agentic applications to RAG pipelines, explainable ML tools, and Edge AI systems.
 
-Most of my recent work is local-first. The models run on my machine, the data stays on disk, and the interesting part is usually the system around the model rather than a single demo notebook.
+My focus is on turning ideas into software that can actually run. I care about the engineering around the model: architecture, data flow, evaluation, interfaces, resource constraints, and reliable integration. Much of my recent work is local-first, exploring how capable AI systems can run on personal or edge hardware while keeping data under the user's control.
 
 ---
 
@@ -77,25 +77,33 @@ Automated comparison of multiple classifiers on the same Excel dataset, with hyp
 
 ## Technology
 
-**AI & ML**  
-LLMs · RAG · Agentic workflows · SHAP / XAI · Classical ML · Computer Vision · Speech AI
+**AI & Machine Learning**  
+LLMs · Generative AI · RAG · Agentic AI · Computer Vision · YOLO · Speech AI · Classical ML · SHAP / XAI · Model Evaluation
 
-**AI Engineering**  
-Python · FastAPI · Streamlit · Ollama · MCP · Prompt and evaluation tooling · Model integration
+**AI Engineering & Frameworks**  
+Python · LangChain · LangGraph · MCP · Ollama · OpenAI · Gemini · Claude · PyTorch · TensorFlow · scikit-learn
 
-**Edge & Embedded**  
-On-device inference · TinyML concepts · ESP32 · FPGA / VHDL ML blocks · Embedded systems research
+**AI Applications & APIs**  
+FastAPI · REST APIs · API Integration · Streamlit ·
 
-**Software**  
-Python · C++ · C · JavaScript · Docker · Git · Playwright · Local-first architecture
+**Cloud & Deployment**  
+AWS · Docker · GitHub/GitLab · Model Deployment · AI/ML Pipelines · Local-first Systems
+
+**Edge & Embedded AI**  
+Edge AI · On-device Inference · TinyML · ESP32-P4 / ESP32-S3 · NVIDIA Jetson · Raspberry Pi · FPGA (Xilinx) · VHDL
+
+**Software Engineering**  
+Python · Git · Modular Architecture · Testing · Automation · Data Pipelines
 
 ---
 
 ## Background
 
-I work at the intersection of AI systems and embedded engineering at the University of Siegen. Earlier projects include health-complication classification for the KIRETT research context and VHDL blocks for SVM-style ML architecture on FPGA.
+My background is in embedded systems, machine learning and AI engineering, with research experience spanning healthcare AI, wearable sensing, FPGA-based ML, TinyML, computer vision and speech recognition.
 
-I care about software that survives outside a notebook: clear module boundaries, local data handling, and interfaces (CLI, dashboard, API) that other people can actually run.
+More recently, my work has moved toward LLMs, RAG, agentic AI and local-first software systems. I build complete applications around these technologies, combining models with data pipelines, APIs, interfaces and deployment constraints rather than treating AI as an isolated model.
+
+I am particularly interested in the space where **AI research becomes usable software**.
 
 ---
 
@@ -103,5 +111,3 @@ I care about software that survives outside a notebook: clear module boundaries,
 
 - GitHub: [github.com/ShadAhammed](https://github.com/ShadAhammed)
 - Academic contact from published project docs: abu.ahammed@uni-siegen.de
-
-If you are hiring for AI engineering, applied LLM systems, or Edge AI, feel free to open an issue on any of the repositories above or reach out by email.
